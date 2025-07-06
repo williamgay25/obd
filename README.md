@@ -7,7 +7,7 @@ This project contains example scripts for connecting to a vehicle's OBD-II port 
 1. **Clone this repository** (if you haven't already):
 
     ```sh
-    git clone <your-repo-url>
+    git clone git@github.com:williamgay25/obd.git
     cd obd
     ```
 
